@@ -152,3 +152,25 @@ header span{
 .contato-div p{
     color: honeydew;
 }
+
+.quartosSolteiro{
+    display: flex;
+    padding: 10px;
+    justify-content:space-around
+
+
+}
+.infoQuartos{
+    display: flex;
+    flex-direction: column;
+}
+
+.infoQuartos2{
+    display: flex;
+justify-content: center;
+}
+.infoQuartos3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
